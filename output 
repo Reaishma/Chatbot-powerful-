@@ -1,0 +1,27 @@
+Welcome to Powerful Chatbot!
+1. Register
+2. Login
+Enter your choice: 1
+Enter a username: user123
+Enter a password: 
+User registered successfully!
+Enter your username: user123
+Enter your password: 
+Login successful!
+Type 'quit' to exit.
+User: hello
+Powerful:  Hi!
+User: what's the time
+Powerful:  The current time is 08:35:00
+User: what's the date today
+Powerful:  Today's date is 2024-06-12
+User: convert length
+Conversion options:
+1. Kilometers to Miles
+2. Miles to Kilometers
+Enter your choice: 1
+Enter distance in kilometers: 10
+10.0 kilometers is equal to 6.21371 miles.
+User: thanks
+Powerful:  You're welcome!
+User: quit
