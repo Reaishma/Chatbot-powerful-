@@ -31,7 +31,23 @@ Getting Started
 - 📁 _Explore locally_:
     1. Run the chatbot: `python chatbot.py` after installing the required libraries.
 
-Contributing
+🤖 Chatbot User Guide 🤖
+👋 Getting Started
+1. *Start a conversation*: Type "hello" or "hi" to begin.
+2. *Ask a question*: Type your question or topic of interest.
+
+🤔 Supported Commands
+1. *Time*: Type "time" to get the current time ⏰
+2. *Date*: Type "date" to get the current date 📆
+3. *Help*: Type "help" for assistance 🤔
+
+📚 Tips
+1. *Be clear*: Type your question or message clearly.
+2. *Be patient*: The chatbot will respond as soon as possible.
+
+
+
+For Contributing
 Contributions welcome! 🌟 fork the respository and submit a pull request 
 
 Author
