@@ -15,4 +15,8 @@ Technologies Used
  Benefits
 1. Improved User Experience: Users can interact with the chatbot and access useful features.
 2. Foundation for Future Development: The project provides a solid foundation for adding more features and improving functionality.
-3. Practical Application of Technologies: The project demonstrates the use of Python, SHA-256 hashing, and pytz library.  
+3. Practical Application of Technologies: The project demonstrates the use of Python, SHA-256 hashing, and pytz library.
+   
+output
+[![Powerful Chatbot](https://drive.google.com/uc?id=1R1n5O6govmm2Rs9fAZ30tjDo-Ir2Vtix)](https://drive.google.com/file/d/1R1n5O6govmm2Rs9fAZ30tjDo-Ir2Vtix/view)
+    
