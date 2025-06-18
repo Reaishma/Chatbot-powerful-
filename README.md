@@ -5,29 +5,41 @@ Chatbot
 Overview
 A powerful chatbot application that simulates conversations and provides helpful responses 🤖
 
+Screenshot
+!https://drive.google.com/uc?id=1R1n5O6govmm2Rs9fAZ30tjDo-Ir2Vtix
+
 Features
-- 💬 *Conversational interface*: Interact with the chatbot using natural language.
-- 🤔 *Intelligent responses*: Chatbot provides helpful and relevant responses to user queries.
-- 📚 *Knowledge base*: Chatbot is trained on a vast knowledge base to provide accurate information.
+- 💬 _Conversational interface_: Interact with the chatbot using natural language.
+- 🤔 _Intelligent responses_: Chatbot provides helpful and relevant responses to user queries.
+- 📚 _Knowledge base_: Chatbot is trained on a vast knowledge base to provide accurate information.
 
 Technologies Used
-- 💻 *HTML5*: Structuring and presenting content.
-- 🎨 *CSS3*: Styling and layout.
-- ⚡️ *JavaScript*: Conversational logic and integration with chatbot API.
+- 🐍 _Python_: Core programming language.
+
+Required Libraries
+- `pytz`: For timezone handling
+- `getpass`: For secure password input
+- `hashlib`: For password hashing
+
+To install the required libraries, run:
+pip install pytz
+
+(`getpass` and `hashlib` are part of the Python standard library, so no installation is required)
 
 Getting Started
-- 🌐 *Try it out*: Check out the live chatbot at `https://Reaishma.github.io/Chatbot-powerful-`
-- 📁 *Explore locally*:
-    1. Download the repository: Click the green "Code" button, then select "Download ZIP".
-    2. Open `index.html` in a web browser.
+- 🌐 _Try it out_: https://Reaishma.github.io/Chatbot-powerful-
+- 📁 _Explore locally_:
+    1. Run the chatbot: `python chatbot.py` after installing the required libraries.
 
 Contributing
-Contributions welcome! 🌟 Fork the repository and submit a pull request.
+Contributions welcome! 🌟 fork the respository and submit a pull request 
 
 Author
-- *Reaishma N*
+**Reaishma N**
 
 License
-MIT License 📄
+MIT License📄
+
+
 
     
