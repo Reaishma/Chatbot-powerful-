@@ -14,7 +14,7 @@ Features
 - 📚 _Knowledge base_: Chatbot is trained on a vast knowledge base to provide accurate information.
 
 Technologies Used
-- 🐍 _Python_: Core programming language.
+- _Python_: Core programming language.
 
 Required Libraries
 - `pytz`: For timezone handling
