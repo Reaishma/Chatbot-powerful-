@@ -54,7 +54,7 @@ Author
 **Reaishma N**
 
 License
-MIT License📄
+Apache License Version 2.0 📄
 
 
 
