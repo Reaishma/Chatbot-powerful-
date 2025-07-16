@@ -6,9 +6,9 @@
 A powerful chatbot application that simulates conversations and provides helpful responses 🤖
 
 ## Updated version refer 
-[GitHub Respository](https://github.com/Reaishma/Natural-language-AI)
+[GitHub Respository Natural language AI](https://github.com/Reaishma/Natural-language-AI)
 
-Screenshot
+## Screenshot
 !https://drive.google.com/uc?id=1R1n5O6govmm2Rs9fAZ30tjDo-Ir2Vtix
 
 ## Features
